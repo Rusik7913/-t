@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Автокликер Mini App</string>
+    <string name="accessibility_description">Распознавание препятствий и автоклик для Telegram Mini App</string>
+</resources>
